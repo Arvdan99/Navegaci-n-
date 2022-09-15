@@ -9,21 +9,39 @@
 /* Begin PBXBuildFile section */
 		3D1CC66728D369D300F7E1F2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CC66628D369D300F7E1F2 /* AppDelegate.swift */; };
 		3D1CC66928D369D300F7E1F2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CC66828D369D300F7E1F2 /* SceneDelegate.swift */; };
-		3D1CC66B28D369D300F7E1F2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CC66A28D369D300F7E1F2 /* ViewController.swift */; };
+		3D1CC66B28D369D300F7E1F2 /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CC66A28D369D300F7E1F2 /* MenuController.swift */; };
 		3D1CC66E28D369D300F7E1F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D1CC66C28D369D300F7E1F2 /* Main.storyboard */; };
 		3D1CC67028D369DC00F7E1F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D1CC66F28D369DC00F7E1F2 /* Assets.xcassets */; };
 		3D1CC67328D369DC00F7E1F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D1CC67128D369DC00F7E1F2 /* LaunchScreen.storyboard */; };
+		3D1CC67B28D36DDD00F7E1F2 /* JuegoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CC67A28D36DDD00F7E1F2 /* JuegoController.swift */; };
+		3D1CC67D28D37E6300F7E1F2 /* TresController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CC67C28D37E6300F7E1F2 /* TresController.swift */; };
+		3D1CC67F28D37FF800F7E1F2 /* CuatroController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CC67E28D37FF800F7E1F2 /* CuatroController.swift */; };
+		3D1CC68128D383A100F7E1F2 /* CincoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CC68028D383A100F7E1F2 /* CincoController.swift */; };
+		3D1CC68328D384A500F7E1F2 /* SeisController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CC68228D384A500F7E1F2 /* SeisController.swift */; };
+		3D1CC68528D385E500F7E1F2 /* SieteController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CC68428D385E500F7E1F2 /* SieteController.swift */; };
+		3D1CC68728D386F100F7E1F2 /* OchoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CC68628D386F100F7E1F2 /* OchoController.swift */; };
+		3D1CC68928D387BA00F7E1F2 /* NueveController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CC68828D387BA00F7E1F2 /* NueveController.swift */; };
+		3D1CC68B28D3882900F7E1F2 /* DiezController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CC68A28D3882900F7E1F2 /* DiezController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		3D1CC66328D369D300F7E1F2 /* Navegacion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Navegacion.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D1CC66628D369D300F7E1F2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D1CC66828D369D300F7E1F2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		3D1CC66A28D369D300F7E1F2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3D1CC66A28D369D300F7E1F2 /* MenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
 		3D1CC66D28D369D300F7E1F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3D1CC66F28D369DC00F7E1F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D1CC67228D369DC00F7E1F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D1CC67428D369DC00F7E1F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D1CC67A28D36DDD00F7E1F2 /* JuegoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegoController.swift; sourceTree = "<group>"; };
+		3D1CC67C28D37E6300F7E1F2 /* TresController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TresController.swift; sourceTree = "<group>"; };
+		3D1CC67E28D37FF800F7E1F2 /* CuatroController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CuatroController.swift; sourceTree = "<group>"; };
+		3D1CC68028D383A100F7E1F2 /* CincoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CincoController.swift; sourceTree = "<group>"; };
+		3D1CC68228D384A500F7E1F2 /* SeisController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeisController.swift; sourceTree = "<group>"; };
+		3D1CC68428D385E500F7E1F2 /* SieteController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SieteController.swift; sourceTree = "<group>"; };
+		3D1CC68628D386F100F7E1F2 /* OchoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OchoController.swift; sourceTree = "<group>"; };
+		3D1CC68828D387BA00F7E1F2 /* NueveController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NueveController.swift; sourceTree = "<group>"; };
+		3D1CC68A28D3882900F7E1F2 /* DiezController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiezController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +76,20 @@
 			children = (
 				3D1CC66628D369D300F7E1F2 /* AppDelegate.swift */,
 				3D1CC66828D369D300F7E1F2 /* SceneDelegate.swift */,
-				3D1CC66A28D369D300F7E1F2 /* ViewController.swift */,
+				3D1CC68228D384A500F7E1F2 /* SeisController.swift */,
+				3D1CC68628D386F100F7E1F2 /* OchoController.swift */,
+				3D1CC68428D385E500F7E1F2 /* SieteController.swift */,
+				3D1CC66A28D369D300F7E1F2 /* MenuController.swift */,
+				3D1CC68028D383A100F7E1F2 /* CincoController.swift */,
 				3D1CC66C28D369D300F7E1F2 /* Main.storyboard */,
 				3D1CC66F28D369DC00F7E1F2 /* Assets.xcassets */,
 				3D1CC67128D369DC00F7E1F2 /* LaunchScreen.storyboard */,
 				3D1CC67428D369DC00F7E1F2 /* Info.plist */,
+				3D1CC67A28D36DDD00F7E1F2 /* JuegoController.swift */,
+				3D1CC67C28D37E6300F7E1F2 /* TresController.swift */,
+				3D1CC67E28D37FF800F7E1F2 /* CuatroController.swift */,
+				3D1CC68828D387BA00F7E1F2 /* NueveController.swift */,
+				3D1CC68A28D3882900F7E1F2 /* DiezController.swift */,
 			);
 			path = Navegacion;
 			sourceTree = "<group>";
@@ -138,9 +165,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3D1CC66B28D369D300F7E1F2 /* ViewController.swift in Sources */,
+				3D1CC68528D385E500F7E1F2 /* SieteController.swift in Sources */,
+				3D1CC68928D387BA00F7E1F2 /* NueveController.swift in Sources */,
+				3D1CC67D28D37E6300F7E1F2 /* TresController.swift in Sources */,
+				3D1CC67F28D37FF800F7E1F2 /* CuatroController.swift in Sources */,
+				3D1CC68128D383A100F7E1F2 /* CincoController.swift in Sources */,
+				3D1CC66B28D369D300F7E1F2 /* MenuController.swift in Sources */,
 				3D1CC66728D369D300F7E1F2 /* AppDelegate.swift in Sources */,
+				3D1CC68728D386F100F7E1F2 /* OchoController.swift in Sources */,
+				3D1CC67B28D36DDD00F7E1F2 /* JuegoController.swift in Sources */,
 				3D1CC66928D369D300F7E1F2 /* SceneDelegate.swift in Sources */,
+				3D1CC68328D384A500F7E1F2 /* SeisController.swift in Sources */,
+				3D1CC68B28D3882900F7E1F2 /* DiezController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
